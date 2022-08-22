@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A Full Stack Developer from NYC</h3>
 
-- 🔭 I’m currently working on **experiementing with reducers and API calls**
+- 🔭 I’m currently working on **experimenting with reducers and API calls**
 
 - 🌱 I’m currently learning **Express.js/Redux**
 
