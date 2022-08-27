@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **experimenting with reducers and API calls**
 
-- 🌱 I’m currently learning **Express.js/Redux**
+- 🌱 I’m currently learning **Express.js/Redux/Data Structures & Algorithms**
 
 - 💬 Ask me about **React, Javascript, SQL, Front-end, Back-end, React.**
 
