@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express.js/Redux/Data Structures & Algorithms**
 
-- 💬 Ask me about **React, Javascript, SQL, Front-end, Back-end, React.**
+- 💬 Ask me about **React.js, Javascript, SQL, Front-end, Back-end.**
 
 - 📫 How to reach me **epeng1994@gmail.com**
 
