@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Javascript, SQL, Front-end, Back-end**
 
-- 📫 How to reach me **epeng1994@gmail.com**
+- 📫 How to reach me **epeng1994@gmail.com** 
 
 - ⚡ Fun fact **I enjoy making puns and trying new cooking recipes**
 
